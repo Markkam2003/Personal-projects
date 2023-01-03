@@ -1,0 +1,14 @@
+C:\Users\Mark\OneDrive\Documents\Personal projects\giraffe\giraffe\bin\Debug\netcoreapp3.1\giraffe.exe
+C:\Users\Mark\OneDrive\Documents\Personal projects\giraffe\giraffe\bin\Debug\netcoreapp3.1\giraffe.deps.json
+C:\Users\Mark\OneDrive\Documents\Personal projects\giraffe\giraffe\bin\Debug\netcoreapp3.1\giraffe.runtimeconfig.json
+C:\Users\Mark\OneDrive\Documents\Personal projects\giraffe\giraffe\bin\Debug\netcoreapp3.1\giraffe.runtimeconfig.dev.json
+C:\Users\Mark\OneDrive\Documents\Personal projects\giraffe\giraffe\bin\Debug\netcoreapp3.1\giraffe.dll
+C:\Users\Mark\OneDrive\Documents\Personal projects\giraffe\giraffe\bin\Debug\netcoreapp3.1\giraffe.pdb
+C:\Users\Mark\OneDrive\Documents\Personal projects\giraffe\giraffe\obj\Debug\netcoreapp3.1\giraffe.csproj.AssemblyReference.cache
+C:\Users\Mark\OneDrive\Documents\Personal projects\giraffe\giraffe\obj\Debug\netcoreapp3.1\giraffe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mark\OneDrive\Documents\Personal projects\giraffe\giraffe\obj\Debug\netcoreapp3.1\giraffe.AssemblyInfoInputs.cache
+C:\Users\Mark\OneDrive\Documents\Personal projects\giraffe\giraffe\obj\Debug\netcoreapp3.1\giraffe.AssemblyInfo.cs
+C:\Users\Mark\OneDrive\Documents\Personal projects\giraffe\giraffe\obj\Debug\netcoreapp3.1\giraffe.csproj.CoreCompileInputs.cache
+C:\Users\Mark\OneDrive\Documents\Personal projects\giraffe\giraffe\obj\Debug\netcoreapp3.1\giraffe.dll
+C:\Users\Mark\OneDrive\Documents\Personal projects\giraffe\giraffe\obj\Debug\netcoreapp3.1\giraffe.pdb
+C:\Users\Mark\OneDrive\Documents\Personal projects\giraffe\giraffe\obj\Debug\netcoreapp3.1\giraffe.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "m76C7fo3WwJ7hzYovr5N/3dThuA2wDAAIZb6aDl7Eq1xlxz/1Hh4s0QXpgZ+XyEJqy2ZToQTKSTcpi825dVKKQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Mark\\OneDrive\\Documents\\Personal projects\\giraffe\\giraffe\\giraffe.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mark\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.28\\microsoft.netcore.app.host.win-x64.3.1.28.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,14 @@
+C:\Users\Mark\OneDrive\Documents\Personal projects\Helloworld\Helloworld\bin\Debug\netcoreapp3.1\Helloworld.exe
+C:\Users\Mark\OneDrive\Documents\Personal projects\Helloworld\Helloworld\bin\Debug\netcoreapp3.1\Helloworld.deps.json
+C:\Users\Mark\OneDrive\Documents\Personal projects\Helloworld\Helloworld\bin\Debug\netcoreapp3.1\Helloworld.runtimeconfig.json
+C:\Users\Mark\OneDrive\Documents\Personal projects\Helloworld\Helloworld\bin\Debug\netcoreapp3.1\Helloworld.runtimeconfig.dev.json
+C:\Users\Mark\OneDrive\Documents\Personal projects\Helloworld\Helloworld\bin\Debug\netcoreapp3.1\Helloworld.dll
+C:\Users\Mark\OneDrive\Documents\Personal projects\Helloworld\Helloworld\bin\Debug\netcoreapp3.1\Helloworld.pdb
+C:\Users\Mark\OneDrive\Documents\Personal projects\Helloworld\Helloworld\obj\Debug\netcoreapp3.1\Helloworld.csproj.AssemblyReference.cache
+C:\Users\Mark\OneDrive\Documents\Personal projects\Helloworld\Helloworld\obj\Debug\netcoreapp3.1\Helloworld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mark\OneDrive\Documents\Personal projects\Helloworld\Helloworld\obj\Debug\netcoreapp3.1\Helloworld.AssemblyInfoInputs.cache
+C:\Users\Mark\OneDrive\Documents\Personal projects\Helloworld\Helloworld\obj\Debug\netcoreapp3.1\Helloworld.AssemblyInfo.cs
+C:\Users\Mark\OneDrive\Documents\Personal projects\Helloworld\Helloworld\obj\Debug\netcoreapp3.1\Helloworld.csproj.CoreCompileInputs.cache
+C:\Users\Mark\OneDrive\Documents\Personal projects\Helloworld\Helloworld\obj\Debug\netcoreapp3.1\Helloworld.dll
+C:\Users\Mark\OneDrive\Documents\Personal projects\Helloworld\Helloworld\obj\Debug\netcoreapp3.1\Helloworld.pdb
+C:\Users\Mark\OneDrive\Documents\Personal projects\Helloworld\Helloworld\obj\Debug\netcoreapp3.1\Helloworld.genruntimeconfig.cache
