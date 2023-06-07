@@ -1,0 +1,38 @@
+C:\Users\Mark\OneDrive\Documents\Personal projects\voting app\voting app\obj\Debug\netcoreapp3.1\voting app.csproj.AssemblyReference.cache
+C:\Users\Mark\OneDrive\Documents\Personal projects\voting app\voting app\obj\Debug\netcoreapp3.1\voting app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mark\OneDrive\Documents\Personal projects\voting app\voting app\obj\Debug\netcoreapp3.1\voting app.AssemblyInfoInputs.cache
+C:\Users\Mark\OneDrive\Documents\Personal projects\voting app\voting app\obj\Debug\netcoreapp3.1\voting app.AssemblyInfo.cs
+C:\Users\Mark\OneDrive\Documents\Personal projects\voting app\voting app\obj\Debug\netcoreapp3.1\voting app.csproj.CoreCompileInputs.cache
+C:\Users\Mark\OneDrive\Documents\Personal projects\voting app\voting app\obj\Debug\netcoreapp3.1\voting app.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Mark\OneDrive\Documents\Personal projects\voting app\voting app\obj\Debug\netcoreapp3.1\voting app.RazorAssemblyInfo.cache
+C:\Users\Mark\OneDrive\Documents\Personal projects\voting app\voting app\obj\Debug\netcoreapp3.1\voting app.RazorAssemblyInfo.cs
+C:\Users\Mark\OneDrive\Documents\Personal projects\voting app\voting app\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Mark\OneDrive\Documents\Personal projects\voting app\voting app\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Mark\OneDrive\Documents\Personal projects\voting app\voting app\bin\Debug\netcoreapp3.1\voting app.exe
+C:\Users\Mark\OneDrive\Documents\Personal projects\voting app\voting app\bin\Debug\netcoreapp3.1\voting app.deps.json
+C:\Users\Mark\OneDrive\Documents\Personal projects\voting app\voting app\bin\Debug\netcoreapp3.1\voting app.runtimeconfig.json
+C:\Users\Mark\OneDrive\Documents\Personal projects\voting app\voting app\bin\Debug\netcoreapp3.1\voting app.runtimeconfig.dev.json
+C:\Users\Mark\OneDrive\Documents\Personal projects\voting app\voting app\bin\Debug\netcoreapp3.1\voting app.dll
+C:\Users\Mark\OneDrive\Documents\Personal projects\voting app\voting app\bin\Debug\netcoreapp3.1\voting app.pdb
+C:\Users\Mark\OneDrive\Documents\Personal projects\voting app\voting app\bin\Debug\netcoreapp3.1\voting app.Views.dll
+C:\Users\Mark\OneDrive\Documents\Personal projects\voting app\voting app\bin\Debug\netcoreapp3.1\voting app.Views.pdb
+C:\Users\Mark\OneDrive\Documents\Personal projects\voting app\voting app\obj\Debug\netcoreapp3.1\staticwebassets\voting app.StaticWebAssets.Manifest.cache
+C:\Users\Mark\OneDrive\Documents\Personal projects\voting app\voting app\obj\Debug\netcoreapp3.1\staticwebassets\voting app.StaticWebAssets.xml
+C:\Users\Mark\OneDrive\Documents\Personal projects\voting app\voting app\obj\Debug\netcoreapp3.1\scopedcss\bundle\voting app.styles.css
+C:\Users\Mark\OneDrive\Documents\Personal projects\voting app\voting app\obj\Debug\netcoreapp3.1\voting app.TagHelpers.input.cache
+C:\Users\Mark\OneDrive\Documents\Personal projects\voting app\voting app\obj\Debug\netcoreapp3.1\voting app.TagHelpers.output.cache
+C:\Users\Mark\OneDrive\Documents\Personal projects\voting app\voting app\obj\Debug\netcoreapp3.1\voting app.RazorCoreGenerate.cache
+C:\Users\Mark\OneDrive\Documents\Personal projects\voting app\voting app\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\Mark\OneDrive\Documents\Personal projects\voting app\voting app\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\Mark\OneDrive\Documents\Personal projects\voting app\voting app\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\Mark\OneDrive\Documents\Personal projects\voting app\voting app\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\Mark\OneDrive\Documents\Personal projects\voting app\voting app\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Mark\OneDrive\Documents\Personal projects\voting app\voting app\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\Mark\OneDrive\Documents\Personal projects\voting app\voting app\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Mark\OneDrive\Documents\Personal projects\voting app\voting app\obj\Debug\netcoreapp3.1\voting app.RazorTargetAssemblyInfo.cache
+C:\Users\Mark\OneDrive\Documents\Personal projects\voting app\voting app\obj\Debug\netcoreapp3.1\voting app.RazorTargetAssemblyInfo.cs
+C:\Users\Mark\OneDrive\Documents\Personal projects\voting app\voting app\obj\Debug\netcoreapp3.1\voting app.Views.pdb
+C:\Users\Mark\OneDrive\Documents\Personal projects\voting app\voting app\obj\Debug\netcoreapp3.1\voting app.dll
+C:\Users\Mark\OneDrive\Documents\Personal projects\voting app\voting app\obj\Debug\netcoreapp3.1\voting app.pdb
+C:\Users\Mark\OneDrive\Documents\Personal projects\voting app\voting app\obj\Debug\netcoreapp3.1\voting app.genruntimeconfig.cache
+C:\Users\Mark\OneDrive\Documents\Personal projects\voting app\voting app\obj\Debug\netcoreapp3.1\voting app.csproj.CopyComplete

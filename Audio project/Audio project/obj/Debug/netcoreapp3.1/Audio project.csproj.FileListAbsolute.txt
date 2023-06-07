@@ -1,0 +1,8 @@
+C:\Users\Mark\OneDrive\Documents\Personal projects\Audio project\Audio project\obj\Debug\netcoreapp3.1\Audio project.csproj.AssemblyReference.cache
+C:\Users\Mark\OneDrive\Documents\Personal projects\Audio project\Audio project\obj\Debug\netcoreapp3.1\Audio project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mark\OneDrive\Documents\Personal projects\Audio project\Audio project\obj\Debug\netcoreapp3.1\Audio project.AssemblyInfoInputs.cache
+C:\Users\Mark\OneDrive\Documents\Personal projects\Audio project\Audio project\obj\Debug\netcoreapp3.1\Audio project.AssemblyInfo.cs
+C:\Users\Mark\OneDrive\Documents\Personal projects\Audio project\Audio project\obj\Debug\netcoreapp3.1\Audio project.csproj.CoreCompileInputs.cache
+C:\Users\Mark\OneDrive\Documents\Personal projects\Audio project\Audio project\obj\Debug\netcoreapp3.1\Audio project.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Mark\OneDrive\Documents\Personal projects\Audio project\Audio project\obj\Debug\netcoreapp3.1\Audio project.RazorAssemblyInfo.cache
+C:\Users\Mark\OneDrive\Documents\Personal projects\Audio project\Audio project\obj\Debug\netcoreapp3.1\Audio project.RazorAssemblyInfo.cs
