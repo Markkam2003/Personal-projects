@@ -1,0 +1,38 @@
+C:\Users\Mark\OneDrive\Documents\Personal projects\Mobile app\Mobile app\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Mark\OneDrive\Documents\Personal projects\Mobile app\Mobile app\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Mark\OneDrive\Documents\Personal projects\Mobile app\Mobile app\bin\Debug\netcoreapp3.1\Mobile app.exe
+C:\Users\Mark\OneDrive\Documents\Personal projects\Mobile app\Mobile app\bin\Debug\netcoreapp3.1\Mobile app.deps.json
+C:\Users\Mark\OneDrive\Documents\Personal projects\Mobile app\Mobile app\bin\Debug\netcoreapp3.1\Mobile app.runtimeconfig.json
+C:\Users\Mark\OneDrive\Documents\Personal projects\Mobile app\Mobile app\bin\Debug\netcoreapp3.1\Mobile app.runtimeconfig.dev.json
+C:\Users\Mark\OneDrive\Documents\Personal projects\Mobile app\Mobile app\bin\Debug\netcoreapp3.1\Mobile app.dll
+C:\Users\Mark\OneDrive\Documents\Personal projects\Mobile app\Mobile app\bin\Debug\netcoreapp3.1\Mobile app.pdb
+C:\Users\Mark\OneDrive\Documents\Personal projects\Mobile app\Mobile app\bin\Debug\netcoreapp3.1\Mobile app.Views.dll
+C:\Users\Mark\OneDrive\Documents\Personal projects\Mobile app\Mobile app\bin\Debug\netcoreapp3.1\Mobile app.Views.pdb
+C:\Users\Mark\OneDrive\Documents\Personal projects\Mobile app\Mobile app\obj\Debug\netcoreapp3.1\Mobile app.csproj.AssemblyReference.cache
+C:\Users\Mark\OneDrive\Documents\Personal projects\Mobile app\Mobile app\obj\Debug\netcoreapp3.1\Mobile app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mark\OneDrive\Documents\Personal projects\Mobile app\Mobile app\obj\Debug\netcoreapp3.1\Mobile app.AssemblyInfoInputs.cache
+C:\Users\Mark\OneDrive\Documents\Personal projects\Mobile app\Mobile app\obj\Debug\netcoreapp3.1\Mobile app.AssemblyInfo.cs
+C:\Users\Mark\OneDrive\Documents\Personal projects\Mobile app\Mobile app\obj\Debug\netcoreapp3.1\Mobile app.csproj.CoreCompileInputs.cache
+C:\Users\Mark\OneDrive\Documents\Personal projects\Mobile app\Mobile app\obj\Debug\netcoreapp3.1\Mobile app.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Mark\OneDrive\Documents\Personal projects\Mobile app\Mobile app\obj\Debug\netcoreapp3.1\Mobile app.RazorAssemblyInfo.cache
+C:\Users\Mark\OneDrive\Documents\Personal projects\Mobile app\Mobile app\obj\Debug\netcoreapp3.1\Mobile app.RazorAssemblyInfo.cs
+C:\Users\Mark\OneDrive\Documents\Personal projects\Mobile app\Mobile app\obj\Debug\netcoreapp3.1\staticwebassets\Mobile app.StaticWebAssets.Manifest.cache
+C:\Users\Mark\OneDrive\Documents\Personal projects\Mobile app\Mobile app\obj\Debug\netcoreapp3.1\staticwebassets\Mobile app.StaticWebAssets.xml
+C:\Users\Mark\OneDrive\Documents\Personal projects\Mobile app\Mobile app\obj\Debug\netcoreapp3.1\scopedcss\bundle\Mobile app.styles.css
+C:\Users\Mark\OneDrive\Documents\Personal projects\Mobile app\Mobile app\obj\Debug\netcoreapp3.1\Mobile app.TagHelpers.input.cache
+C:\Users\Mark\OneDrive\Documents\Personal projects\Mobile app\Mobile app\obj\Debug\netcoreapp3.1\Mobile app.TagHelpers.output.cache
+C:\Users\Mark\OneDrive\Documents\Personal projects\Mobile app\Mobile app\obj\Debug\netcoreapp3.1\Mobile app.RazorCoreGenerate.cache
+C:\Users\Mark\OneDrive\Documents\Personal projects\Mobile app\Mobile app\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\Mark\OneDrive\Documents\Personal projects\Mobile app\Mobile app\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\Mark\OneDrive\Documents\Personal projects\Mobile app\Mobile app\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\Mark\OneDrive\Documents\Personal projects\Mobile app\Mobile app\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\Mark\OneDrive\Documents\Personal projects\Mobile app\Mobile app\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Mark\OneDrive\Documents\Personal projects\Mobile app\Mobile app\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\Mark\OneDrive\Documents\Personal projects\Mobile app\Mobile app\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Mark\OneDrive\Documents\Personal projects\Mobile app\Mobile app\obj\Debug\netcoreapp3.1\Mobile app.RazorTargetAssemblyInfo.cache
+C:\Users\Mark\OneDrive\Documents\Personal projects\Mobile app\Mobile app\obj\Debug\netcoreapp3.1\Mobile app.RazorTargetAssemblyInfo.cs
+C:\Users\Mark\OneDrive\Documents\Personal projects\Mobile app\Mobile app\obj\Debug\netcoreapp3.1\Mobile app.Views.pdb
+C:\Users\Mark\OneDrive\Documents\Personal projects\Mobile app\Mobile app\obj\Debug\netcoreapp3.1\Mobile app.dll
+C:\Users\Mark\OneDrive\Documents\Personal projects\Mobile app\Mobile app\obj\Debug\netcoreapp3.1\Mobile app.pdb
+C:\Users\Mark\OneDrive\Documents\Personal projects\Mobile app\Mobile app\obj\Debug\netcoreapp3.1\Mobile app.genruntimeconfig.cache
+C:\Users\Mark\OneDrive\Documents\Personal projects\Mobile app\Mobile app\obj\Debug\netcoreapp3.1\Mobile app.csproj.CopyComplete
