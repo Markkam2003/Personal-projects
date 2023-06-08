@@ -168,3 +168,4 @@ C:\Users\Mark\OneDrive\Documents\Personal projects\JokerWebApp\obj\Debug\netcore
 C:\Users\Mark\OneDrive\Documents\Personal projects\JokerWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Jokes\Details.cshtml.g.cs
 C:\Users\Mark\OneDrive\Documents\Personal projects\JokerWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Jokes\Edit.cshtml.g.cs
 C:\Users\Mark\OneDrive\Documents\Personal projects\JokerWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Jokes\Index.cshtml.g.cs
+C:\Users\Mark\OneDrive\Documents\Personal projects\JokerWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Jokes\ShowSearchForm.cshtml.g.cs
