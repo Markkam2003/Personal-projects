@@ -31,6 +31,12 @@ namespace JokerWebApp.Controllers
             return View();
         }
 
+        // POST: Jokes/ShowSearcResults
+        public string ShowSearchResults(String SearchPhrase)
+        {
+            return "You enterd " + SearchPhrase;
+        }
+
         // GET: Jokes/Details/5
         public async Task<IActionResult> Details(int? id)
         {
